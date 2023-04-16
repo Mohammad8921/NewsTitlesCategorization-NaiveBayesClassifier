@@ -1,4 +1,4 @@
 # News Titles Categorization using Naive Bayes Classifier
-* This project is a text classification. In this project I implemented a Naive Bayes classifier from scratch for categorizing the News Tiltles.
+* In this project I implemented a Naive Bayes text classifier to categorize the titles of news.
 * Zeros have been handles by Laplacian smoothing.
-* DataPreprocessor class designed for data preprocessing phase and NaiveBayesClassifier designed for classification task.  
+* `DataPreprocessor` class has been designed for data preprocessing and the aim of `NaiveBayesClassifier` is training and predicting the Naive Bayes model to do the classification task.  
