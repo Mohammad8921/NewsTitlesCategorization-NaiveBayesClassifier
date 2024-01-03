@@ -11,4 +11,4 @@
   * Web browsing
   * Video & audio
 * All characters except `آ-ی` and `\s` have been removed; Numbers have been replaced by `N`. Zeros have been handled by Laplacian smoothing.
-* The `DataPreprocessor` and `NaiveBayesClassifier` classes have been designed for preprocessing the samples and training a Naive Bayes classifier respectively.  
+* The `DataPreprocessor` and `NaiveBayesClassifier` classes have been designed for preprocessing the samples and training/evaluating a Naive Bayes classifier respectively.  
