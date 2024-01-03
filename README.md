@@ -10,5 +10,5 @@
   * Social media
   * Web browsing
   * Video & audio
-* All characters execpt `آ-ی` and `\s` have been removed; Numbers have been replaced by `N`. Zeros have been handles by Laplacian smoothing.
-* `DataPreprocessor` class has been designed for data preprocessing and the aim of `NaiveBayesClassifier` is training and predicting the Naive Bayes model to do the classification task.  
+* All characters except `آ-ی` and `\s` have been removed; Numbers have been replaced by `N`. Zeros have been handled by Laplacian smoothing.
+* The `DataPreprocessor` and `NaiveBayesClassifier` classes have been designed for preprocessing the samples and training a Naive Bayes classifier respectively.  
