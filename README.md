@@ -1,4 +1,4 @@
-# News Titles Categorization using Naive Bayes Classifier
+# News Titles Categorization using Naive Bayes Algorithm
 * In this project, I implemented a Naive Bayes text classifier from scratch to categorize the titles of news. The categories are:
   * International
   * Sport
